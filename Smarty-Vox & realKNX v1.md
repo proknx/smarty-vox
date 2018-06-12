@@ -17,7 +17,7 @@ page, enter the default username and password : “admin”.
 
 # Step 2: Pairing of devices 
 
-
+Press the “+” symbol to add or remove device.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDAzNjUyLC0yMjgwODY0NjldfQ==
+eyJoaXN0b3J5IjpbNTY4ODA0ODgxLC0yMjgwODY0NjldfQ==
 -->
