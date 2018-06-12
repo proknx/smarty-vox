@@ -23,9 +23,9 @@ The IP and MAC address of ZNG100 will be displayed.
 Use Fing or similar app from your mobile device, look for vendor "AzureWave Technology"
 In the address bar of browser, input the local IP of the Gateway.
 
-In a browser, oOpen the IP address in a browser 
-In the login
-page, enter the default username and password : “admin”.
+In a browser, open the IP of the Gateway.
+In the login page, enter 
+username and password : "admin"
 
 # Step 2: Pairing of microphones 
 ![Smarty-Vox Microphone](https://proknx.com/wp-content/uploads/2018/06/zsr220new-1500x1000.png =300x200)
@@ -45,7 +45,7 @@ page, enter the default username and password : “admin”.
 3.  Follow the instructions given in the Node-RED flow to import and customize the action handler. This video explains how to import  [Video Tutorial](https://screencast-o-matic.com/watch/cFVT63oOVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTc2ODI3NywtMjI0MTIyMDY0LC0zOD
+eyJoaXN0b3J5IjpbMTk1MzIyODc1OSwtMjI0MTIyMDY0LC0zOD
 Y5Njk1NzksMzMxNzYwMjk5LDU2ODgwNDg4MSwtMjI4MDg2NDY5
 XX0=
 -->
