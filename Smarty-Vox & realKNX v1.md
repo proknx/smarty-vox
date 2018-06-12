@@ -25,7 +25,9 @@ In the address bar of browser, input the local IP of the Gateway.
 
 In a browser, open the IP of the Gateway.
 In the login page, enter 
-username and password : "admin"
+ - username: "admin"
+ - password : "admin"
+
 
 # Step 2: Pairing of microphones 
 ![Smarty-Vox Microphone](https://proknx.com/wp-content/uploads/2018/06/zsr220new-1500x1000.png =300x200)
@@ -39,13 +41,14 @@ username and password : "admin"
 - Then press the left “Device List”
 - repeat for all microphones
 
+
 # Step 3: Add Node-RED action handler
 1.  Open the  "Automation/Node-RED"  application from realKNX main menu. In the next step you will import the action handler flow in Node-RED.
 2.  Open the  [Node-RED library](https://proknx.com/en/node-red-app/#node-red+s:smartyvox) . Under Download code,  select the an handler flow (e.g. '-   German v1 [offline-voice-smartyvox-de-v1.json](https://raw.githubusercontent.com/proknx/node-red-lib/master/offline-voice-smartyvox-de-v1.json)')
 3.  Follow the instructions given in the Node-RED flow to import and customize the action handler. This video explains how to import  [Video Tutorial](https://screencast-o-matic.com/watch/cFVT63oOVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzIyODc1OSwtMjI0MTIyMDY0LC0zOD
-Y5Njk1NzksMzMxNzYwMjk5LDU2ODgwNDg4MSwtMjI4MDg2NDY5
-XX0=
+eyJoaXN0b3J5IjpbLTE0NDYyNTIwOTEsLTIyNDEyMjA2NCwtMz
+g2OTY5NTc5LDMzMTc2MDI5OSw1Njg4MDQ4ODEsLTIyODA4NjQ2
+OV19
 -->
