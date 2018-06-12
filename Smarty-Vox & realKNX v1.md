@@ -16,7 +16,7 @@ In the address bar of browser, input the local IP of the Gateway. In the login
 page, enter the default username and password : “admin”.
 
 # Step 2: Pairing of microphones 
-
+http://proknx.com/en/news/2018/offline-voice-control-with-smarty-vox-privacy-guaranteed/zsr220new-1500x1000/
  - Press the "+" symbol next to "Add or remove devices".
  - Press the "Add" button to add a device.
  - The status window shows the countdown message
@@ -24,11 +24,11 @@ page, enter the default username and password : “admin”.
 - Turn the cover counter-clockwise to open it. 
 - Press the pairing button on the device once to pair it with the gateway, the status window disappears after the device has been added, the blue light goes off.
 - Then press the left “Device List”
-- rep
+- repeat for all microphones
 
-
+# Step 2: Pairing of microphones 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTUzMjE4LDMzMTc2MDI5OSw1Njg4MD
-Q4ODEsLTIyODA4NjQ2OV19
+eyJoaXN0b3J5IjpbLTgwMjc2NTk0MSwzMzE3NjAyOTksNTY4OD
+A0ODgxLC0yMjgwODY0NjldfQ==
 -->
