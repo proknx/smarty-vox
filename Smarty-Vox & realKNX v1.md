@@ -19,9 +19,13 @@ page, enter the default username and password : “admin”.
 
  - Press the "+" symbol next to "Add or remove devices".
  - Press the "Add" button to add a device.
- - The status window shows the countdown message (default is
-30 seconds.
+ - The status window shows the countdown message
+ - Plug in the power of the microphone,  the blue light goes on when it is not yet paired
+with any gateway. 
+- Turn the cover counter-clockwise to open it. 
+- Press the pairing button on the device once to add ZSR220 into ZNG100, the status window
+disappears after the device has been added, the blue light on ZSR220 goes off.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzY1OTUyMCw1Njg4MDQ4ODEsLTIyOD
+eyJoaXN0b3J5IjpbMTY0MjQyMTAzMCw1Njg4MDQ4ODEsLTIyOD
 A4NjQ2OV19
 -->
