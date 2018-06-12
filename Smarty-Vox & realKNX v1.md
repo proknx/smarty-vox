@@ -17,7 +17,9 @@ page, enter the default username and password : “admin”.
 
 # Step 2: Pairing of devices 
 
-Press the “+” symbol to add or remove device.
+Press the "+" symbol next to "Add or remove devices".
+Press the "Add" button to add a device.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4ODA0ODgxLC0yMjgwODY0NjldfQ==
+eyJoaXN0b3J5IjpbODA2NjQ5MzU2LDU2ODgwNDg4MSwtMjI4MD
+g2NDY5XX0=
 -->
