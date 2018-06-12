@@ -29,10 +29,10 @@ page, enter the default username and password : “admin”.
 
 # Step 3: Add Node-RED action handler
 1.  Open the  "Automation/Node-RED"  application from realKNX main menu. In the next step you will import the action handler flow in Node-RED.
-2.  Open the  [Node-RED library](https://proknx.com/en/node-red-app/#node-red+s:smartyvox)  and select the appropriate action handler flow (e.g. 'Offline Voice – SmartyVox English v1')
+2.  Open the  [Node-RED library](https://proknx.com/en/node-red-app/#node-red+s:smartyvox) . Under Download code,  select the an handler flow (e.g. 'Offline Voice – SmartyVox English v1')
 3.  Follow the instructions given in the Node-RED library to import and customize the action handler. This video explains how to import  [Video Tutorial](https://screencast-o-matic.com/watch/cFVT63oOVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Njk2OTU3OSwzMzE3NjAyOTksNTY4OD
-A0ODgxLC0yMjgwODY0NjldfQ==
+eyJoaXN0b3J5IjpbLTgwMTI5NTU5MywtMzg2OTY5NTc5LDMzMT
+c2MDI5OSw1Njg4MDQ4ODEsLTIyODA4NjQ2OV19
 -->
