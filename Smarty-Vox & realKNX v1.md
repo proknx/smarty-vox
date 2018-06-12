@@ -16,8 +16,7 @@ In the address bar of browser, input the local IP of the Gateway. In the login
 page, enter the default username and password : “admin”.
 
 # Step 2: Pairing of microphones 
-![Smarty-Vox Gateway](https://proknx.com/wp-content/uploads/2018/06/zsr220new-1500x1000.png =300x300)
-
+![Smarty-Vox Microphone](https://proknx.com/wp-content/uploads/2018/06/zsr220new-1500x1000.png =300x200)
 
  - Press the "+" symbol next to "Add or remove devices".
  - Press the "Add" button to add a device.
@@ -28,9 +27,9 @@ page, enter the default username and password : “admin”.
 - Then press the left “Device List”
 - repeat for all microphones
 
-# Step 2: Pairing of microphones 
+# Step 3: Add  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk2NTQ1NTksMzMxNzYwMjk5LDU2OD
-gwNDg4MSwtMjI4MDg2NDY5XX0=
+eyJoaXN0b3J5IjpbLTQ2NDg3OTY4MiwzMzE3NjAyOTksNTY4OD
+A0ODgxLC0yMjgwODY0NjldfQ==
 -->
