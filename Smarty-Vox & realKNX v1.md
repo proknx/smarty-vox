@@ -27,9 +27,10 @@ page, enter the default username and password : “admin”.
 - Then press the left “Device List”
 - repeat for all microphones
 
-# Step 3: Add  
+# Step 3: Add Node-RED action handler
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDg3OTY4MiwzMzE3NjAyOTksNTY4OD
-A0ODgxLC0yMjgwODY0NjldfQ==
+eyJoaXN0b3J5IjpbLTE3NTczNTUzMTAsMzMxNzYwMjk5LDU2OD
+gwNDg4MSwtMjI4MDg2NDY5XX0=
 -->
