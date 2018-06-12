@@ -15,7 +15,7 @@ The IP and MAC address of ZNG100 will be displayed.
 In the address bar of browser, input the local IP of the Gateway. In the login
 page, enter the default username and password : “admin”.
 
-# Step 2: Pairing of devices 
+# Step 2: Pairing of microphones 
 
  - Press the "+" symbol next to "Add or remove devices".
  - Press the "Add" button to add a device.
@@ -24,8 +24,11 @@ page, enter the default username and password : “admin”.
 - Turn the cover counter-clockwise to open it. 
 - Press the pairing button on the device once to pair it with the gateway, the status window disappears after the device has been added, the blue light goes off.
 - Then press the left “Device List”
-- 
+- rep
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNzYwMjk5LDU2ODgwNDg4MSwtMjI4MD
-g2NDY5XX0=
+eyJoaXN0b3J5IjpbMjE0MTUzMjE4LDMzMTc2MDI5OSw1Njg4MD
+Q4ODEsLTIyODA4NjQ2OV19
 -->
