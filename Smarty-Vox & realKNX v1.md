@@ -4,7 +4,7 @@ This guide explains how to integrate Smarty-Vox microphones and gateway with rea
 Please note that Smarty-Vox is fully integrated in realKNX v2 (revPI).
 
 # Step 1: Find the Gateway
-![Alt](http://proknx.com/en/news/2018/offline-voice-control-with-smarty-vox-privacy-guaranteed/planner-a4-1500x1500/ =300x300)
+![Smarty-Vox Gateway](http://proknx.com/en/news/2018/offline-voice-control-with-smarty-vox-privacy-guaranteed/planner-a4-1500x1500/ =300x300)
 
 **Method 1:** Download and run the software “Packet Sender” from https://packetsender.com/,
 Fill in the fields below with the following information:
@@ -16,7 +16,9 @@ In the address bar of browser, input the local IP of the Gateway. In the login
 page, enter the default username and password : “admin”.
 
 # Step 2: Pairing of microphones 
-http://proknx.com/en/news/2018/offline-voice-control-with-smarty-vox-privacy-guaranteed/zsr220new-1500x1000/
+![Smarty-Vox Gateway](https://proknx.com/wp-content/uploads/2018/06/zsr220new-1500x1000.png =300x300)
+
+
  - Press the "+" symbol next to "Add or remove devices".
  - Press the "Add" button to add a device.
  - The status window shows the countdown message
@@ -29,6 +31,6 @@ http://proknx.com/en/news/2018/offline-voice-control-with-smarty-vox-privacy-gua
 # Step 2: Pairing of microphones 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjc2NTk0MSwzMzE3NjAyOTksNTY4OD
-A0ODgxLC0yMjgwODY0NjldfQ==
+eyJoaXN0b3J5IjpbLTEyNDk2NTQ1NTksMzMxNzYwMjk5LDU2OD
+gwNDg4MSwtMjI4MDg2NDY5XX0=
 -->
